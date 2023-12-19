@@ -46,7 +46,7 @@
 
 <!-- [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=aaabrsh&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aaabrsh/portfolio) -->
 
-[![Twinphy - Social Media App](https://github-readme-stats.vercel.app/api/pin/?username=aaabrsh&repo=twinphy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://twinphy-client.vercel.app/)
+[![Twinphy - Social Media App](https://github-readme-stats.vercel.app/api/pin/?username=aaabrsh&repo=twinphy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aaabrsh/twinphy)
 [![LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=aaabrsh&repo=LeetCode&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aaabrsh/LeetCode)
 [![Task Management](https://github-readme-stats.vercel.app/api/pin/?username=aaabrsh&repo=task-management&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aaabrsh/task-management)
 [![Grade Calculator](https://github-readme-stats.vercel.app/api/pin/?username=aaabrsh&repo=grade-calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aaabrsh/grade-calculator)
