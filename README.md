@@ -80,5 +80,5 @@
 ![Abraham Alemayehu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaabrsh&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AbrahamAlemayehu?ext=heatmap&theme=dark" alt="Abraham Alemayehu's Leetcode Stats">
+  <img src="https://leetcard.jacoblin.cool/aaabrsh?ext=heatmap&theme=dark" alt="Abraham Alemayehu's Leetcode Stats">
 </p>
